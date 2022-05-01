@@ -1,5 +1,3 @@
-# test
-coursera test repository
 <!DOCTYPE html>
 <html>
 <head>
